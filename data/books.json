@@ -1,0 +1,87 @@
+{
+  "979-8-6401-0001-1": {
+    "title": "The Shadow Code",
+    "author": "Elara Nyx",
+    "reviews": {
+      "dunggpt": "Smart and hauntingly real!"
+    }
+  },
+  "979-8-6401-0002-8": {
+    "title": "Quantum Thiefs",
+    "author": "Kazuo Thorne",
+    "reviews": {
+      "admin": "Brilliantly twisted sci-fi heist."
+    }
+  },
+  "979-8-6401-0003-5": {
+    "title": "Echoes of the Wyrm",
+    "author": "L. J. Morrin",
+    "reviews": {
+      "reader01": "Fantasy done right. Loved the dragon lore!"
+    }
+  },
+  "979-8-6401-0004-2": {
+    "title": "Memory Glitch",
+    "author": "Seraph V.",
+    "reviews": {
+      "hacker": "Cyberpunk vibes with a mind-bending twist."
+    }
+  },
+  "979-8-6401-0005-9": {
+    "title": "Ashes of New Eden",
+    "author": "Nia Reeve",
+    "reviews": {}
+  },
+  "978-3-16-148410-0": {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "reviews": {
+      "user1": "Amazing book!"
+    }
+  },
+  "978-1-86197-876-9": {
+    "title": "1984",
+    "author": "George Orwell",
+    "reviews": {}
+  },
+  "978-0-452-28423-4": {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "reviews": {
+      "alice": "A classic that never gets old."
+    }
+  },
+  "978-0-7432-7356-5": {
+    "title": "Angels & Demons",
+    "author": "Dan Brown",
+    "reviews": {
+      "bob": "Fast-paced and thrilling!"
+    }
+  },
+  "978-0-14-044913-6": {
+    "title": "The Odyssey",
+    "author": "Homer",
+    "reviews": {}
+  },
+  "979-8-6401-1002-8": {
+    "title": "The Silence Protocol",
+    "author": "Kazuo Thorne",
+    "reviews": {
+      "dunggpt": "Creepy and intelligent. Great pacing!"
+    }
+  },
+  "979-8-6401-1003-5": {
+    "title": "Neon Genesis Collapse",
+    "author": "Kazuo Thorne",
+    "reviews": {
+      "techfox": "Feels like Blade Runner meets Ghost in the Shell."
+    }
+  },
+  "979-8-6401-2003-1": {
+    "title": "Neon Genesis Collapse",
+    "author": "Yuki Aoba",
+    "reviews": {
+      "nekochan": "Emotionally deep with complex AI themes."
+    }
+  }
+}
